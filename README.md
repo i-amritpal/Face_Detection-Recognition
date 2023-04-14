@@ -1,6 +1,5 @@
 # Face_Detection
-Face discovery should be possible utilizing Python and OpenCV library. We are
-utilizing an outpouring classifier in this program, which can be stacked with a preprepared xml document. OpenCV as of now have these pre-prepared classifiers
+Face discovery should be possible utilizing Python and OpenCV library. I have utilized an outpouring classifier in this program, which can be stacked with a preprepared xml document. OpenCV as of now have these pre-prepared classifiers
 prepared for face recognition. Calculation of face recognition is as per the following:
 <br>
 
